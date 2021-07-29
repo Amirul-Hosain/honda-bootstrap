@@ -32,7 +32,6 @@
 
 .header-image{
     margin-left: 10%;
-    margin-top: ;
 }
  
 
@@ -96,7 +95,7 @@
         color: #7E848C;
         font-size: 16px;
         line-height: 28px;
-        margin-top: 15px;
+        /* margin-top: 15px; */
     }
 
 
